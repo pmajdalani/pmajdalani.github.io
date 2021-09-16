@@ -25,3 +25,7 @@ body{
 #AboutMe-para{
   width:800px
 }
+
+#CrossCountry{
+  float: right;
+}
