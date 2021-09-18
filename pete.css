@@ -37,7 +37,7 @@ body{
 
 #pedro{
   float: left;
-  position: absolute;
+  position: relative;
   top:-300px
    
 }
