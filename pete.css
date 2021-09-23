@@ -43,6 +43,15 @@ body{
    
 }
 
+.main-body{
+  background-color: rgb(200,8,21);
+  margin-left: auto;
+  margin-right: auto;
+  margin-top:10px;
+  width:800px;
+  padding-top:10px;
+  padding-bottom:10px;
+}
 
 
 
